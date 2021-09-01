@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Minun blogi"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Tänne kirjoitan viimeisimmät päivitykset Github learnig labin kursseita!
